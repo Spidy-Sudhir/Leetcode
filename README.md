@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -40,6 +41,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
+| [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
