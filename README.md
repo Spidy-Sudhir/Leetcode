@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
