@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
