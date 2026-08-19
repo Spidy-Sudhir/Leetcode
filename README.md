@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0001-two-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -112,5 +114,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
