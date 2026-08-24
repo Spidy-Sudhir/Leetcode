@@ -37,6 +37,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -125,4 +126,20 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
