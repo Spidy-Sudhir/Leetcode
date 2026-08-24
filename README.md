@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
@@ -58,6 +59,7 @@
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
@@ -161,4 +164,12 @@
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+## Sorting
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
