@@ -66,6 +66,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
