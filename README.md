@@ -105,6 +105,7 @@
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Binary Search
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
