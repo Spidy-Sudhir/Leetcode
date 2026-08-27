@@ -202,4 +202,8 @@
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
