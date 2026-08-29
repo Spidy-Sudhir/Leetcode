@@ -18,6 +18,7 @@
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
