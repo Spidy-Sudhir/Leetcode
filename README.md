@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
