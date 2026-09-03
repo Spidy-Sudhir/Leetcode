@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
