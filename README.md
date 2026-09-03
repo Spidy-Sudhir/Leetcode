@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
