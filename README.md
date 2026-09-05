@@ -76,6 +76,7 @@
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
@@ -121,6 +122,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search
 |  |
 | ------- |
