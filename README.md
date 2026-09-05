@@ -29,6 +29,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
