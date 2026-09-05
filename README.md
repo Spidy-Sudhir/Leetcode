@@ -75,6 +75,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
+| [2413-smallest-even-multiple](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
