@@ -72,6 +72,7 @@
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0343-integer-break) |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
@@ -122,6 +123,7 @@
 | [0115-distinct-subsequences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0343-integer-break) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
