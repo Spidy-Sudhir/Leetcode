@@ -23,6 +23,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -40,6 +41,7 @@
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Coloring
 |  |
