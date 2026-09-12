@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -145,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -177,6 +180,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -188,6 +192,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
