@@ -57,6 +57,7 @@
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -95,6 +96,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
@@ -134,6 +136,7 @@
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
