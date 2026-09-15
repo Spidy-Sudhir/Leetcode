@@ -12,6 +12,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1386-cinema-seat-allocation](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
