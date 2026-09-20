@@ -59,6 +59,7 @@
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
