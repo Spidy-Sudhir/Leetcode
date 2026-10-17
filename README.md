@@ -27,6 +27,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -45,6 +46,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -234,6 +236,7 @@
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Brainteaser
 |  |
 | ------- |
