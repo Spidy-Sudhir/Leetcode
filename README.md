@@ -20,6 +20,7 @@
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2845-count-of-interesting-subarrays](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Coloring
