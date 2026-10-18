@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -159,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0835-image-overlap) |
@@ -189,6 +191,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
