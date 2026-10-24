@@ -64,6 +64,7 @@
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0504-base-7) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2409-count-days-spent-together](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -94,6 +95,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
