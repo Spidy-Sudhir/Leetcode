@@ -26,6 +26,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
