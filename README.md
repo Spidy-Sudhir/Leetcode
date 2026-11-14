@@ -66,6 +66,7 @@
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
 | [0504-base-7](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0504-base-7) |
+| [1668-maximum-repeating-substring](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2409-count-days-spent-together](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -153,6 +154,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1668-maximum-repeating-substring](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Spidy-Sudhir/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -310,4 +312,8 @@
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
