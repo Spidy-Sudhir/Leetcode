@@ -64,6 +64,7 @@
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
 | [0504-base-7](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0504-base-7) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2409-count-days-spent-together](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -148,6 +149,7 @@
 | [0198-house-robber](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0343-integer-break) |
+| [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Spidy-Sudhir/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -180,6 +182,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
 ## Recursion
 |  |
 | ------- |
@@ -299,4 +302,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Spidy-Sudhir/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
+## Memoization
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Spidy-Sudhir/Leetcode/tree/master/0488-zuma-game) |
 <!---LeetCode Topics End-->
